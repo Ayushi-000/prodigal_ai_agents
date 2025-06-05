@@ -1,4 +1,4 @@
-from prodigal_agent.schemas.config_model import Settings
+from prodigal_agent.schemas.agent_config import Settings
 
 
 settings = Settings()
