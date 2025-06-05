@@ -16,7 +16,7 @@ A Python framework for building concurrent, message-driven agent systems with st
 pip install agent-framework
 
 For development:
-git clone https://github.com/your-username/agent-framework.git
+git clone https://github.com/Ayushi-000/agent-framework.git
 cd agent-framework
 pip install -e .[dev]
 
